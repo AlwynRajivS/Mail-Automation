@@ -166,4 +166,3 @@ elif app_mode == "Dynamic Attachments":
         
             for res in results:
                 st.write(res)
-
